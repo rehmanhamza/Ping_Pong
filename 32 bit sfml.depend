@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1516593804 source:d:\sfml ping pong 32 bit\32 bit sfml\main.cpp
+	<sstream>
+	<string>
+	<conio.h>
+	<windows.h>
+	<iostream>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Keyboard.hpp>
+
